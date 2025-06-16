@@ -1,5 +1,6 @@
 body{
     background-color: #D5E1EF;
+    font-family: 'Outfit';
 }
 
 .flex-container{
@@ -9,7 +10,7 @@ body{
 }
 
 .outer-container{
-    max-width: 320px;
+    width: 320px;
     height: 499px;
     background-color: #fff;
     border-radius: 15px;
